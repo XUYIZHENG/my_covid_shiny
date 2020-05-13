@@ -7,6 +7,7 @@ install.packages("shinythemes")
 install.packages("sf")
 install.packages("rnaturalearth")
 install.packages("rgeos")
+install.
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
